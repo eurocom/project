@@ -4,3 +4,4 @@ function display() {
 }
 
 display();
+echo 'test';
