@@ -1,3 +1,6 @@
 <?php
+function display() {
+    echo 'string';
+}
 
-echo 'string';
+display();
